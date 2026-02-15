@@ -47,7 +47,7 @@
     "prefetch",
     "infinite-scroll"
   ],
-  "author": "",
+  "author": "oguzkabasakal@gmail.com",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=16.8.0"
@@ -63,6 +63,6 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/kabaskill/blitz-cache/"
   }
 }
